@@ -1,0 +1,5 @@
+{
+    "site1.com": { "bloqueado": true },
+    "site2.com": { "bloqueado": false },
+    "site3.com": { "bloqueado": true }
+}
